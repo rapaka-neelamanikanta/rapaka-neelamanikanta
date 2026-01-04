@@ -36,7 +36,7 @@ I explore, analyze, and model data to uncover insights that drive smarter decisi
 ## 📊 Skill Level Snapshot
 
 ```text
-Python        ██████████ 90%
+Python        ███████ 70%
 SQL           █████████  85%
 Data Analysis █████████  85%
 AI Tools      ████████   80%
