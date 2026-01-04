@@ -17,7 +17,7 @@ I explore, analyze, and model data to uncover insights that drive smarter decisi
 ## 🎓 Academic Journey
 
 - 🎓 **Bachelor’s Degree:** Data Science  
-- 🎓 **Master’s Degree:** Data Science (Currently pursuing in the USA)  
+- 🎓 **Master’s Degree:** Data Analytics (Currently pursuing in the USA)  
 - 📈 Passionate about analytics, machine learning, and real-world problem solving  
 
 ---
